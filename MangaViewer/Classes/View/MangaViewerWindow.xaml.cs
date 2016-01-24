@@ -9,7 +9,7 @@ namespace MangaViewer.Classes.View
     {
         public MangaViewerWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
     }
 }
